@@ -57,8 +57,10 @@ these secrets appear in the workflows, main yaml but this time are environment v
 
 <img width="468" alt="Screenshot 2024-09-19 at 23 01 11" src="https://github.com/user-attachments/assets/8f8c0714-a44b-4966-b0d2-83e3b17f65a4">
 
+env variables:
 
 <img width="400" alt="Screenshot 2024-09-19 at 23 00 29" src="https://github.com/user-attachments/assets/fa161825-c44b-44ba-8cce-d2ae41e43827">
+
 
 
 <img width="351" alt="Screenshot 2024-09-19 at 23 03 06" src="https://github.com/user-attachments/assets/8a79ff58-7533-4b20-a32c-948d404f4117">
