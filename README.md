@@ -66,9 +66,6 @@ the build goes and because the connection string and the published profile, it c
 
 <img width="498" alt="Screenshot 2024-09-19 at 23 04 40" src="https://github.com/user-attachments/assets/9e2e7a9f-198a-48e8-a22d-a734dde2c2da">
 
-
-<img width="254" alt="Screenshot 2024-09-19 at 23 04 59" src="https://github.com/user-attachments/assets/f79c3ec1-096f-47cb-8422-24ced3773938">
-
 and you have the feature
 
 <img width="537" alt="Screenshot 2024-09-19 at 23 05 27" src="https://github.com/user-attachments/assets/a072be50-47c2-4e4f-87ed-e82b62601dac">
