@@ -62,9 +62,6 @@ env variables:
 <img width="400" alt="Screenshot 2024-09-19 at 23 00 29" src="https://github.com/user-attachments/assets/fa161825-c44b-44ba-8cce-d2ae41e43827">
 
 
-
-<img width="351" alt="Screenshot 2024-09-19 at 23 03 06" src="https://github.com/user-attachments/assets/8a79ff58-7533-4b20-a32c-948d404f4117">
-
 the build goes and because the connection string and the published profile, it creates a target jar file and from there you can pick a deployment task which passes that jar file to the Azure Web App, puts it in the right place and runs the web app
 
 <img width="498" alt="Screenshot 2024-09-19 at 23 04 40" src="https://github.com/user-attachments/assets/9e2e7a9f-198a-48e8-a22d-a734dde2c2da">
