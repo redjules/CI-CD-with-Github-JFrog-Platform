@@ -85,6 +85,7 @@ what artifactory does for you is it provides you a proxy so when you need to col
 
 This project was set up to point to the Artifactory instance
 
-<img width="869" alt="Screenshot 2024-09-19 at 23 11 15" src="https://github.com/user-attachments/assets/3f7d1a7c-c95f-4cb2-9308-99f738284f0e">
+![Screenshot 2024-09-19 at 23 19 34](https://github.com/user-attachments/assets/97000cf0-6165-443a-ac65-5cfa8f80e348)
+
 
 when you ask for an artifact that Artifactory doesn't have yet, and you pull that out from Maven Central that initial request is pulling that artifact in from Maven Central adn the subsequent requests are gonna pull from that artifactory instance. There are several reasons to do that: performance reasons, security reasons if are behind a firewall and you don't have direct access to the Internet and those public repos.
