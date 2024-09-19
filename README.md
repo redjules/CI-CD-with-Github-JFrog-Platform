@@ -9,8 +9,7 @@
 
 We have here a springboard application, a beta feature:
 
-
-<img width="647" alt="Screenshot 2024-09-19 at 23 15 20" src="https://github.com/user-attachments/assets/8d7b246b-a0a3-4185-b8a9-b266ead7de5c">
+![Screenshot 2024-09-19 at 23 20 48](https://github.com/user-attachments/assets/a4060eba-2f03-4483-b439-dd3dfc904e1e)
 
 if you go to feature manager in Azure and turn that off
 
