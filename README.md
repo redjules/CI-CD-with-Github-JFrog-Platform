@@ -25,8 +25,6 @@ to create this web app:
 <img width="430" alt="Screenshot 2024-09-19 at 22 53 43" src="https://github.com/user-attachments/assets/2beb64b6-9f1d-4bb1-9418-8908c6bea78d">
 
 
-<img width="674" alt="Screenshot 2024-09-19 at 22 54 19" src="https://github.com/user-attachments/assets/859fa017-d5e8-471a-b7e5-c4ab0e4454eb">
-
 we enable continuous deployment:
 
 
