@@ -7,7 +7,21 @@
 
 <img width="760" alt="Screenshot 2024-09-19 at 22 53 30" src="https://github.com/user-attachments/assets/bfe8a7f6-8e4a-4039-8d5c-c656cfff8342">
 
-create a web app:
+We have here a springboard application, a beta feature:
+
+
+<img width="647" alt="Screenshot 2024-09-19 at 23 15 20" src="https://github.com/user-attachments/assets/8d7b246b-a0a3-4185-b8a9-b266ead7de5c">
+
+if you go to feature manager in Azure and turn that off
+
+<img width="593" alt="Screenshot 2024-09-19 at 23 16 54" src="https://github.com/user-attachments/assets/68fd7f92-3c32-4e0b-95e5-4ee7dbac08a8">
+
+and go back to the website and refresh, the feature is gone: 
+
+<img width="656" alt="Screenshot 2024-09-19 at 23 17 08" src="https://github.com/user-attachments/assets/3d1c521a-b53a-4059-8e3c-d0ea0c276190">
+
+
+to create this web app:
 
 <img width="430" alt="Screenshot 2024-09-19 at 22 53 43" src="https://github.com/user-attachments/assets/2beb64b6-9f1d-4bb1-9418-8908c6bea78d">
 
@@ -66,3 +80,11 @@ So you go in, you generate the automatic yaml, oncethe yaml fails because first 
 
 
 <img width="503" alt="Screenshot 2024-09-19 at 23 08 01" src="https://github.com/user-attachments/assets/6eb9a4fc-bb9a-4f17-bd1b-3e7e3fde50ef">
+
+what artifactory does for you is it provides you a proxy so when you need to collect those artifacts it will proxy that request out to Maven Central.
+
+This project was set up to point to the Artifactory instance
+
+<img width="869" alt="Screenshot 2024-09-19 at 23 11 15" src="https://github.com/user-attachments/assets/3f7d1a7c-c95f-4cb2-9308-99f738284f0e">
+
+when you ask for an artifact that Artifactory doesn't have yet, and you pull that out from Maven Central that initial request is pulling that artifact in from Maven Central adn the subsequent requests are gonna pull from that artifactory instance. There are several reasons to do that: performance reasons, security reasons if are behind a firewall and you don't have direct access to the Internet and those public repos.
