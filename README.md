@@ -76,7 +76,7 @@ and you have the feature
 
 So you go in, you generate the automatic yaml, oncethe yaml fails because first time it doesn't have the environment variables set up, you update the yaml file for the workflow and you're setting XML with artifactory data. Once it runsyou can see here in the Jfrog platform all the artifacts that got stored automatically in Artifactory
 
-<img width="838" alt="Screenshot 2024-09-19 at 23 07 23" src="https://github.com/user-attachments/assets/f2571099-c5e4-4a61-a5db-58fe647af97a">
+![Screenshot 2024-09-19 at 23 18 56](https://github.com/user-attachments/assets/376ab276-9b29-44f5-b2c1-348a46409850)
 
 
 <img width="503" alt="Screenshot 2024-09-19 at 23 08 01" src="https://github.com/user-attachments/assets/6eb9a4fc-bb9a-4f17-bd1b-3e7e3fde50ef">
